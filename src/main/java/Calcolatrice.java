@@ -20,6 +20,9 @@ public class Calcolatrice {
     }
     public int Moltiplicazione (){
         return a * b;
-
     }
+    public int Modulo (){
+        return a % b;
+    }
+
 }
